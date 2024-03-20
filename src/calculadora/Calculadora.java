@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculadora {
 	/**
 	 * Calculadora basica
-	 * @author profe talento digital
+	 * @author profe talento digital comentario pa git hub
 	 */
 
 	public static void main(String[] args) {
